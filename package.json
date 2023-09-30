@@ -2,7 +2,7 @@
 
   "homepage": "https://fabiosantos99.github.io/cellphone_sa",
   "name": "cellphone_sa",
-  "private": true,
+  "private": false,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
