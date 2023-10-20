@@ -1,4 +1,4 @@
-import { lerLocalStorage, desenharProdutoCarrinhoSimples} from "./src/utilidades";
+import { lerLocalStorage, desenharProdutoCarrinhoSimples} from "./utilidades";
 
 function criarPedidoHistorico(pedidoComData) {
     const elementoPedido = `<p class='text-xl text-bold my-4'>${new Date(pedidoComData.dataPedido).toLocaleDateString('pt-BR', {
